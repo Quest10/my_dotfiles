@@ -1,1 +1,3 @@
+set mouse
+#repo de resaltado de sintaxis mejorada
 include "~/.nano/*.nanorc"

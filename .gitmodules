@@ -4,3 +4,4 @@
 [submodule "nano_syntax_highlighting"]
 	path = nano_syntax_highlighting
 	url = https://github.com/scopatz/nanorc.git
+	ignore = dirty
