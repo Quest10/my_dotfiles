@@ -1,3 +1,6 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
+[submodule "nano_syntax_highlighting"]
+	path = nano_syntax_highlighting
+	url = https://github.com/scopatz/nanorc.git
